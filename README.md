@@ -1,2 +1,2 @@
 # TPscan
-一键检测ThinkPHP全版本漏洞
+一键ThinkPHP漏洞检测,基于Python3
